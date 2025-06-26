@@ -2,8 +2,11 @@
 **Carrera: Sistemas computacionales Adminitrativos.**<br> 
 **Semestre: 4to**<br> 
 
-## 📚 Actividades individuales *Indice*
+## 📁 Carpeta: Tareas *Indice*
 - Tarea 1: Preguntas sobre Nivel de Red y Web Actual. 21/06/25
 
-## 🌟 Enlace al repositorio de equipo
+## 📁 Carpeta: Practicas en clase *Indice*
+- Practica 1: Tabla de SQL 21/06/25
+
+## 🔗 Enlace al repositorio de equipo
 *(Pendiente)*
