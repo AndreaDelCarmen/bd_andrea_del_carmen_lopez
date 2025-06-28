@@ -10,4 +10,4 @@
 - Practica 1: Tabla de SQL 21/06/25
 
 ## 🔗 Enlace al repositorio de equipo
-*(Pendiente)*
+https://github.com/AndreaDelCarmen/bd_equipo2
