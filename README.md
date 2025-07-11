@@ -9,6 +9,7 @@
 ## 📁 Carpeta: Practicas en clase 
 - Practica 1: Tabla de SQL 21/06/25
 - Practica 2: Tabla SQL Lista de productos. 28/06/25
+- Practica 3: Alumnos y promedios. 5/07/25
 
 ## 🔗 Enlace al repositorio de equipo
 https://github.com/AndreaDelCarmen/bd_equipo2
